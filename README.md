@@ -1,4 +1,4 @@
-# bulma + TypeScript + Reacg = bloomer
+# bulma + TypeScript + React = bloomer
 CSS-in-JS
 
 TypeScriptに対応した、blumaでスタイリング済みの  
