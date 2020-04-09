@@ -13,15 +13,15 @@ const MyTable = () => {
       <tbody>
         <tr>
           <td>表を</td>
-          <td>書きたいなんて</td>
+          <td>書くのは</td>
         </tr>
         <tr className="is-selected">
-          <td>お前は</td>
-          <td>頭が</td>
+          <td>正直</td>
+          <td>辛いと</td>
         </tr>
         <tr>
-          <td>どうか</td>
-          <td>してるぜ！</td>
+          <td>思い</td>
+          <td>ます</td>
         </tr>
       </tbody>
     </Table>
